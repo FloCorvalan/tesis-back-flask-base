@@ -1,0 +1,522 @@
+[
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14008"},
+    "build_number": 1,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648480036,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14009"},
+    "build_number": 2,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648480156,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400a"},
+    "build_number": 3,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648480856,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400b"},
+    "build_number": 4,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648480928,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400c"},
+    "build_number": 5,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648481080,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400d"},
+    "build_number": 6,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648481290,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400e"},
+    "build_number": 7,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648481599,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1400f"},
+    "build_number": 8,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648482839,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14010"},
+    "build_number": 9,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648482895,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14011"},
+    "build_number": 10,
+    "job_name": "prueba",
+    "result": "FAILURE",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648482936,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14012"},
+    "build_number": 11,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648483020,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14013"},
+    "build_number": 12,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648483088,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14014"},
+    "build_number": 13,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648483490,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14015"},
+    "build_number": 14,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648483533,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14016"},
+    "build_number": 15,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648483897,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14017"},
+    "build_number": 16,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648616770,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14018"},
+    "build_number": 17,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648616781,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec14019"},
+    "build_number": 18,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648756223,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1401a"},
+    "build_number": 19,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649800717,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6261765b1a1f2ecf7ec1401b"},
+    "build_number": 20,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650413027,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6268b463a6aced5bcfc90361"},
+    "build_number": 21,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029043,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "627a290348065054c95d68a8"},
+    "build_number": 22,
+    "job_name": "prueba",
+    "result": "SUCCESS",
+    "source_id": "6241fb9a6db9b5f537d59a76",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1652145485,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "627ab681d7b192b6f673f530"},
+    "build_number": 1,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651182858,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "627ab681d7b192b6f673f531"},
+    "build_number": 2,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183229,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "627ab681d7b192b6f673f532"},
+    "build_number": 3,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183854,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "627ab681d7b192b6f673f533"},
+    "build_number": 4,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183906,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "627ab681d7b192b6f673f534"},
+    "build_number": 5,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183942,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "62802a3ac536f70885a375a5"},
+    "build_number": 1,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62801b3705470c65250b0c90",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651182858,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "62802a3ac536f70885a375a6"},
+    "build_number": 2,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62801b3705470c65250b0c90",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183229,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "62802a3ac536f70885a375a7"},
+    "build_number": 3,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62801b3705470c65250b0c90",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183854,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "62802a3ac536f70885a375a8"},
+    "build_number": 4,
+    "job_name": "prueba-back",
+    "result": "FAILURE",
+    "source_id": "62801b3705470c65250b0c90",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183906,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "62802a3ac536f70885a375a9"},
+    "build_number": 5,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62801b3705470c65250b0c90",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183942,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6281b31382a17a97ffa437ef"},
+    "build_number": 6,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1652666392,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "6281b31382a17a97ffa437f0"},
+    "build_number": 7,
+    "job_name": "prueba-back",
+    "result": "SUCCESS",
+    "source_id": "62702d86a987d71a15d3ed0c",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1652666972,
+    "username": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "6296f5c06abef6e960c331a2"},
+    "build_number": 1,
+    "job_name": "prueba-tesis-back",
+    "result": "FAILURE",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654058592,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6296f5c16abef6e960c331a3"},
+    "build_number": 2,
+    "job_name": "prueba-tesis-back",
+    "result": "FAILURE",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654059080,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6296f5c16abef6e960c331b3"},
+    "build_number": 3,
+    "job_name": "prueba-tesis-back",
+    "result": "SUCCESS",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654059335,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "6296f5c26abef6e960c331b4"},
+    "build_number": 4,
+    "job_name": "prueba-tesis-back",
+    "result": "SUCCESS",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654059733,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "62970ccb91e2e1ab2cb85197"},
+    "build_number": 5,
+    "job_name": "prueba-tesis-back",
+    "result": "SUCCESS",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654066229,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "6297256391e2e1ab2cb85198"},
+    "build_number": 6,
+    "job_name": "prueba-tesis-back",
+    "result": "SUCCESS",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654072589,
+    "username": "FloCorvalan (auto)"
+  },
+  {
+    "_id": {"$oid": "6297fd819829d374237160e4"},
+    "build_number": 7,
+    "job_name": "prueba-tesis-back",
+    "result": "SUCCESS",
+    "source_id": "6296f5ba6abef6e960c3319f",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654120487,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709d1785c7fd81349a1d"},
+    "build_number": 1,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654129843,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "629f709d1785c7fd81349a1e"},
+    "build_number": 2,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297586,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709e1785c7fd81349a3a"},
+    "build_number": 3,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297691,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709e1785c7fd81349a3b"},
+    "build_number": 4,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447298,
+    "username": "FloCorvalan (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709e1785c7fd81349a3c"},
+    "build_number": 5,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447563,
+    "username": "FloCorvalan (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709f1785c7fd81349a3d"},
+    "build_number": 6,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611418,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f709f1785c7fd81349a3e"},
+    "build_number": 7,
+    "job_name": "prueba-tesis-uno",
+    "result": "SUCCESS",
+    "source_id": "629f70971785c7fd81349a1a",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611543,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f79c9548b781c11dbc322"},
+    "build_number": 1,
+    "job_name": "prueba-tesis-dos",
+    "result": "SUCCESS",
+    "source_id": "629f7996548b781c11dbc31f",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654448473,
+    "username": "admin"
+  },
+  {
+    "_id": {"$oid": "629f79c9548b781c11dbc33e"},
+    "build_number": 2,
+    "job_name": "prueba-tesis-dos",
+    "result": "SUCCESS",
+    "source_id": "629f7996548b781c11dbc31f",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654611988,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f79ca548b781c11dbc33f"},
+    "build_number": 3,
+    "job_name": "prueba-tesis-dos",
+    "result": "SUCCESS",
+    "source_id": "629f7996548b781c11dbc31f",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654612113,
+    "username": "fcorvalanl (auto)"
+  },
+  {
+    "_id": {"$oid": "629f7c5a548b781c11dbc360"},
+    "build_number": 1,
+    "job_name": "prueba-tesis-tres",
+    "result": "SUCCESS",
+    "source_id": "629f7c46548b781c11dbc35d",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654612870,
+    "username": "admin"
+  }
+]

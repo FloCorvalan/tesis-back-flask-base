@@ -1,0 +1,200 @@
+[
+  {
+    "_id": {"$oid": "6241fb9a6db9b5f537d59a76"},
+    "ip_port": "localhost:8080",
+    "name": "prueba",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "token": "118258f7cd58beb80d653fb121ae6fe162",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "6245c4a05d2241ee765cccad"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "AYUD",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "6255d136c04ac27bbad0276d"},
+    "name": "tesis",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "62702d03a987d71a15d3ed0b"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "PT",
+    "team_id": "62702b09e2115db94f9d2d41",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "62702d86a987d71a15d3ed0c"},
+    "ip_port": "localhost:8080",
+    "name": "prueba-back",
+    "team_id": "62702b09e2115db94f9d2d41",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "token": "118258f7cd58beb80d653fb121ae6fe162",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "62702de63d1331bb2a227f93"},
+    "name": "prueba-tesis",
+    "team_id": "62702b09e2115db94f9d2d41",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "627ffe6a2a98a8adec3ea87a"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "PT",
+    "team_id": "627ff4909eb3af03b12ee121",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "62801b3705470c65250b0c90"},
+    "ip_port": "localhost:8080",
+    "name": "prueba-back",
+    "team_id": "627ff4909eb3af03b12ee121",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "token": "118258f7cd58beb80d653fb121ae6fe162",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "62801b3705470c65250b0c91"},
+    "name": "prueba-tesis",
+    "team_id": "627ff4909eb3af03b12ee121",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "6296f5456abef6e960c3319d"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "TES",
+    "team_id": "6296f5046abef6e960c3319c",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "6296f5ba6abef6e960c3319f"},
+    "ip_port": "188.166.118.192:8080",
+    "name": "prueba-tesis-back",
+    "team_id": "6296f5046abef6e960c3319c",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "token": "11762135e6640be64a4848bd9405f8262b",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "6296f5ba6abef6e960c331a0"},
+    "name": "prueba-tesis-back",
+    "team_id": "6296f5046abef6e960c3319c",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "629f70291785c7fd81349a18"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "PTU",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "629f70971785c7fd81349a1a"},
+    "ip_port": "188.166.118.192:8080",
+    "name": "prueba-tesis-uno",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "token": "11762135e6640be64a4848bd9405f8262b",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "629f70971785c7fd81349a1b"},
+    "name": "prueba-tesis-uno",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "629f78f8548b781c11dbc31d"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "PTD",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "629f7996548b781c11dbc31f"},
+    "ip_port": "188.166.118.192:8080",
+    "name": "prueba-tesis-dos",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "token": "11762135e6640be64a4848bd9405f8262b",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "629f7996548b781c11dbc320"},
+    "name": "prueba-tesis-dos",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  },
+  {
+    "_id": {"$oid": "629f7bad548b781c11dbc35b"},
+    "ip_port": "https://florencia-corvalan-lillo.atlassian.net",
+    "name": "PTT",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "token": "eYKKpOVcq5fzxMmHvIeK7D02",
+    "type": "jira",
+    "user": "florencia.corvalan@usach.cl"
+  },
+  {
+    "_id": {"$oid": "629f7c46548b781c11dbc35d"},
+    "ip_port": "188.166.118.192:8080",
+    "name": "prueba-tesis-tres",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "token": "11762135e6640be64a4848bd9405f8262b",
+    "type": "jenkins",
+    "user": "admin"
+  },
+  {
+    "_id": {"$oid": "629f7c46548b781c11dbc35e"},
+    "name": "prueba-tesis-tres",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "token": "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",
+    "type": "github",
+    "user": "FloCorvalan"
+  }
+]

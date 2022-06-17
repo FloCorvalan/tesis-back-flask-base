@@ -1,0 +1,119 @@
+[
+  {
+    "_id": {"$oid": "6261c71fcfc7825d1f64c099"},
+    "last_date": {"$date": "2022-05-10T05:15:06.966Z"},
+    "last_date_info": {"$date": "2022-06-10T20:03:01.905Z"},
+    "last_date_part": {"$date": "2022-06-10T20:03:01.903Z"},
+    "project": "AYUD",
+    "source_id": "6245c4a05d2241ee765cccad",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "total_created": 18,
+    "total_events": {
+      "status": 24,
+      "Story point estimate": 9,
+      "Sprint": 4,
+      "Fix Version": 2,
+      "Rank": 5,
+      "IssueParentAssociation": 4,
+      "resolution": 12,
+      "description": 1
+    },
+    "total_updated": 61
+  },
+  {
+    "_id": {"$oid": "627ab683d7b192b6f673f547"},
+    "last_date_info": {"$date": "2022-06-10T02:57:02.436Z"},
+    "last_date_part": {"$date": "2022-06-10T02:57:02.434Z"},
+    "project": "PT",
+    "source_id": "62702d03a987d71a15d3ed0b",
+    "team_id": "62702b09e2115db94f9d2d41",
+    "total_created": 4,
+    "total_events": {
+      "resolution": 4,
+      "Sprint": 4,
+      "status": 8,
+      "Story point estimate": 4
+    },
+    "total_updated": 20
+  },
+  {
+    "_id": {"$oid": "62802a3bc536f70885a375bc"},
+    "last_date_info": {"$date": "2022-05-15T17:55:33.472Z"},
+    "last_date_part": {"$date": "2022-05-15T17:55:32.300Z"},
+    "project": "PT",
+    "source_id": "627ffe6a2a98a8adec3ea87a",
+    "team_id": "627ff4909eb3af03b12ee121",
+    "total_created": 4,
+    "total_events": {
+      "Story point estimate": 4,
+      "resolution": 2,
+      "status": 4,
+      "Sprint": 2
+    },
+    "total_updated": 4
+  },
+  {
+    "_id": {"$oid": "6296f5c16abef6e960c331b2"},
+    "last_date_info": {"$date": "2022-06-10T00:33:57.390Z"},
+    "last_date_part": {"$date": "2022-06-10T00:33:57.388Z"},
+    "project": "TES",
+    "source_id": "6296f5456abef6e960c3319d",
+    "team_id": "6296f5046abef6e960c3319c",
+    "total_created": 4,
+    "total_events": {
+      "Sprint": 2,
+      "Story point estimate": 2,
+      "status": 4,
+      "resolution": 2
+    },
+    "total_updated": 10
+  },
+  {
+    "_id": {"$oid": "629f709d1785c7fd81349a37"},
+    "last_date_info": {"$date": "2022-06-10T20:03:26.164Z"},
+    "last_date_part": {"$date": "2022-06-10T20:03:26.162Z"},
+    "project": "PTU",
+    "source_id": "629f70291785c7fd81349a18",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "total_created": 4,
+    "total_events": {
+      "status": 8,
+      "resolution": 4,
+      "Story point estimate": 4,
+      "Sprint": 4
+    },
+    "total_updated": 20
+  },
+  {
+    "_id": {"$oid": "629f79c9548b781c11dbc33b"},
+    "last_date_info": {"$date": "2022-06-10T19:50:21.925Z"},
+    "last_date_part": {"$date": "2022-06-10T19:50:21.923Z"},
+    "project": "PTD",
+    "source_id": "629f78f8548b781c11dbc31d",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "total_created": 4,
+    "total_events": {
+      "status": 8,
+      "resolution": 4,
+      "Sprint": 4,
+      "Story point estimate": 4
+    },
+    "total_updated": 20
+  },
+  {
+    "_id": {"$oid": "629f7c5b548b781c11dbc375"},
+    "last_date_info": {"$date": "2022-06-10T19:51:20.598Z"},
+    "last_date_part": {"$date": "2022-06-10T19:51:20.597Z"},
+    "project": "PTT",
+    "source_id": "629f7bad548b781c11dbc35b",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "total_created": 4,
+    "total_events": {
+      "Story point estimate": 4,
+      "resolution": 3,
+      "status": 4,
+      "Sprint": 4
+    },
+    "total_updated": 15
+  }
+]

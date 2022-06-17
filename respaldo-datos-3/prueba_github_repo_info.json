@@ -1,0 +1,1352 @@
+[
+  {
+    "_id": {"$oid": "626184ab5eef4b8e303faede"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "07faf26674aeda2dba4f83920bacb93694948c17",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650564590
+  },
+  {
+    "_id": {"$oid": "626184ac5eef4b8e303faedf"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "18b6327e9af8ec1eb121a3b48af9cfe2be550507",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650433477
+  },
+  {
+    "_id": {"$oid": "626184ac5eef4b8e303faee0"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "cf85e31e1b672769c16e2df6c09ad5547b1d016c",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650398963
+  },
+  {
+    "_id": {"$oid": "626184ad5eef4b8e303faee1"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "76c18c4e57817fdf47ae4bfb0ea951b96faaa6d5",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650397457
+  },
+  {
+    "_id": {"$oid": "626184ae5eef4b8e303faee2"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "bdde11f41d2381dd82ac1ea4ae5519f96a165af1",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650394872
+  },
+  {
+    "_id": {"$oid": "626184ae5eef4b8e303faee3"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "59c4f8751b7d687a053fd864bc215da523051df2",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650394124
+  },
+  {
+    "_id": {"$oid": "626184af5eef4b8e303faee4"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "37d51bc18c4ceed343bc3b9d810f62c38fc77f67",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1650392722
+  },
+  {
+    "_id": {"$oid": "626184af5eef4b8e303faee5"},
+    "additions": 3,
+    "author": "FloCorvalan",
+    "commit_sha": "93cb53b254703bfdbafc2ca6643ba4263e9992c7",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649872161
+  },
+  {
+    "_id": {"$oid": "626184b05eef4b8e303faee6"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "0196a2942c621249abea32ed1227c16741585b36",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649829058
+  },
+  {
+    "_id": {"$oid": "626184b05eef4b8e303faee7"},
+    "additions": 0,
+    "author": "FloCorvalan",
+    "commit_sha": "5346735585e49d206cfba8cb134db85336a41937",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649829028
+  },
+  {
+    "_id": {"$oid": "626184b15eef4b8e303faee8"},
+    "additions": 546,
+    "author": "FloCorvalan",
+    "commit_sha": "ac2c14d4cb8ee4f2c5a0864b9958a2ac73f9cf27",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649309926
+  },
+  {
+    "_id": {"$oid": "626184b15eef4b8e303faee9"},
+    "additions": 21,
+    "author": "FloCorvalan",
+    "commit_sha": "90a5cab8f5c4fafb2877172e706841af17d8b75b",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648498847
+  },
+  {
+    "_id": {"$oid": "626184b25eef4b8e303faeea"},
+    "additions": 17,
+    "author": "FloCorvalan",
+    "commit_sha": "5525d18117050090d1649e9ed116405fbe35c706",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648457782
+  },
+  {
+    "_id": {"$oid": "626184b25eef4b8e303faeeb"},
+    "additions": 81,
+    "author": "FloCorvalan",
+    "commit_sha": "097d445221491d8b6f3eae3c7196c8e22a1b82a3",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648436235
+  },
+  {
+    "_id": {"$oid": "626184b35eef4b8e303faeec"},
+    "additions": 13,
+    "author": "FloCorvalan",
+    "commit_sha": "dafc452037273ec2168a11be3cb28fd361127aee",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648277835
+  },
+  {
+    "_id": {"$oid": "626184b35eef4b8e303faeed"},
+    "additions": 52,
+    "author": "FloCorvalan",
+    "commit_sha": "227da69ceb8826eb3b8eb1ce8d302c2245c2d751",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648268266
+  },
+  {
+    "_id": {"$oid": "626184b45eef4b8e303faeee"},
+    "additions": 207,
+    "author": "FloCorvalan",
+    "commit_sha": "8330b07fd387c72dc982d630cd2bab5114a99ac3",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1648164170
+  },
+  {
+    "_id": {"$oid": "626184b45eef4b8e303faeef"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "0c563879834618a8dd56d5e70782edc15f057034",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1647672617
+  },
+  {
+    "_id": {"$oid": "626184b55eef4b8e303faef0"},
+    "additions": 55,
+    "author": "FloCorvalan",
+    "commit_sha": "876191b955d0a7eff21af19ffd461fd5f4241ee0",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1647669023
+  },
+  {
+    "_id": {"$oid": "626184b55eef4b8e303faef1"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "78da3d46232201277f8dc276201a4da9197da063",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1647667418
+  },
+  {
+    "_id": {"$oid": "626184b65eef4b8e303faef2"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "82bd9db289c87d782176ebb9332e96edf82bc931",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649873169
+  },
+  {
+    "_id": {"$oid": "626184b65eef4b8e303faef3"},
+    "additions": 3,
+    "author": "FloCorvalan",
+    "commit_sha": "151bfec109f70d78082294bd636ab02501fe4411",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1649309983
+  },
+  {
+    "_id": {"$oid": "6268b465096f6032b0ca36ca"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "6269d896317e2dcbc55ffc24"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a136abbd9d434e8775872"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1372bbd9d434e8775873"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1392bbd9d434e8775874"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1394bbd9d434e8775875"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a150bbbd9d434e8775876"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a18eabbd9d434e8775877"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1969bbd9d434e8775878"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1a1ebbd9d434e8775879"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1a34bbd9d434e877587a"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1a86bbd9d434e877587b"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1ac8bbd9d434e877587c"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1b3dbbd9d434e877587d"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1c26bbd9d434e877587e"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1c39bbd9d434e877587f"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1c4fbbd9d434e8775880"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626a1c74bbd9d434e8775881"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b24dd0ecbe468205f458c"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b26110ecbe468205f458d"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b261a0ecbe468205f458e"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b261f0ecbe468205f458f"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b26210ecbe468205f4590"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b29530ecbe468205f4591"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b2acd0ecbe468205f4592"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b2b680ecbe468205f4593"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b2b6b0ecbe468205f4594"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b2b700ecbe468205f4595"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b30ce0ecbe468205f4596"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b30d80ecbe468205f4597"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b30da0ecbe468205f4598"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "626b30e20ecbe468205f4599"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627037d8ff92b49dbace90bb"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627037f0ff92b49dbace90bc"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627037f2ff92b49dbace90bd"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627038aaff92b49dbace90be"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627038d9ff92b49dbace90bf"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "6270390eff92b49dbace90c0"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62703913ff92b49dbace90c1"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62703bb20f28d50c6c0cde50"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62703bbf0f28d50c6c0cde51"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62703c630f28d50c6c0cde58"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62703e380f28d50c6c0cde59"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627042c10f28d50c6c0cde5a"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "6270449c4bc268e1be70b399"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "6270483aaf87715fb28fdd13"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "62704877af87715fb28fdd14"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651043478
+  },
+  {
+    "_id": {"$oid": "627989ef67ecf0dfea18ac0a"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627989ef67ecf0dfea18ac0b"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627a2905e86a533112335d3a"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627a2905e86a533112335d3b"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627a295be86a533112335d3c"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627a295be86a533112335d3d"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627a2babe86a533112335d3e"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627a2bace86a533112335d3f"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627a2ca2e86a533112335d40"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627a2ca3e86a533112335d41"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627a2d18e86a533112335d42"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627a2d19e86a533112335d43"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627ec8e790e8c890b21a5b39"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627ec8e890e8c890b21a5b3a"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627ec8ea90e8c890b21a5b3b"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627ec8eb90e8c890b21a5b3c"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627eddba90e8c890b21a5b3d"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627eddba90e8c890b21a5b3e"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "627f3e0f244d821dca7bf2df"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "627f3e10244d821dca7bf2e0"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "62802a3bc81b81bf46097ed6"},
+    "additions": 73,
+    "author": "FloCorvalan",
+    "commit_sha": "c0f99da6e404cdaf8b321d990d445769246d71ea",
+    "source_id": "62801b3705470c65250b0c91",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183838
+  },
+  {
+    "_id": {"$oid": "62802a3cc81b81bf46097ed7"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "9f5899c13c23c6ef222d8abc00362e205a097ede",
+    "source_id": "62801b3705470c65250b0c91",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651183217
+  },
+  {
+    "_id": {"$oid": "62802a3dc81b81bf46097ed8"},
+    "additions": 1254,
+    "author": "FloCorvalan",
+    "commit_sha": "1b10d8534d1145a357e501168bba682b3fdf5423",
+    "source_id": "62801b3705470c65250b0c91",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651182819
+  },
+  {
+    "_id": {"$oid": "62802a3ec81b81bf46097ed9"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "a18b812063a57443712f311f669223ba3c56bd5f",
+    "source_id": "62801b3705470c65250b0c91",
+    "team_project_id": "62801b3705470c65250b0c8f",
+    "timestamp": 1651163436
+  },
+  {
+    "_id": {"$oid": "6283e68c44c4e8050a496fb3"},
+    "additions": 71,
+    "author": "FloCorvalan",
+    "commit_sha": "e4a6961a1500f07bc240249d75bab043aa59e375",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1652666877
+  },
+  {
+    "_id": {"$oid": "6283e68c44c4e8050a496fb4"},
+    "additions": 134,
+    "author": "FloCorvalan",
+    "commit_sha": "758d4e466d54f6ce1a56b1999dda8a5213e03856",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1652666133
+  },
+  {
+    "_id": {"$oid": "6283e68d44c4e8050a496fb5"},
+    "additions": 71,
+    "author": "FloCorvalan",
+    "commit_sha": "193a7a042e03a3c1d949cc67449dd6dae3c0dd3a",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1652665632
+  },
+  {
+    "_id": {"$oid": "6283e68d44c4e8050a496fb6"},
+    "additions": 73,
+    "author": "FloCorvalan",
+    "commit_sha": "c0f99da6e404cdaf8b321d990d445769246d71ea",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183838
+  },
+  {
+    "_id": {"$oid": "6283e68e44c4e8050a496fb7"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "9f5899c13c23c6ef222d8abc00362e205a097ede",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651183217
+  },
+  {
+    "_id": {"$oid": "6283e68f44c4e8050a496fb8"},
+    "additions": 1254,
+    "author": "FloCorvalan",
+    "commit_sha": "1b10d8534d1145a357e501168bba682b3fdf5423",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651182819
+  },
+  {
+    "_id": {"$oid": "6283e69044c4e8050a496fb9"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "a18b812063a57443712f311f669223ba3c56bd5f",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1651163436
+  },
+  {
+    "_id": {"$oid": "628c0e9aa9508a3d792ab696"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "e5384d2a4c59967ba0bb45e40d7f53aedeaf94be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651530637
+  },
+  {
+    "_id": {"$oid": "628c0e9ba9508a3d792ab697"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "5dd7be2ef0d8e2093636f5e8b9d8b966b1acd1be",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1651029078
+  },
+  {
+    "_id": {"$oid": "6296aba0254f20d79625bd2c"},
+    "additions": 7,
+    "author": "FloCorvalan",
+    "commit_sha": "d289573bd63a4f5582ebedae97c902b1a62c1541",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1654031918
+  },
+  {
+    "_id": {"$oid": "629720ef65f81092f6efc6cc"},
+    "additions": 7,
+    "author": "FloCorvalan",
+    "commit_sha": "d289573bd63a4f5582ebedae97c902b1a62c1541",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1654031918
+  },
+  {
+    "_id": {"$oid": "629720f965f81092f6efc6cd"},
+    "additions": 7,
+    "author": "FloCorvalan",
+    "commit_sha": "d289573bd63a4f5582ebedae97c902b1a62c1541",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1654031918
+  },
+  {
+    "_id": {"$oid": "6297212465f81092f6efc6ce"},
+    "additions": 7,
+    "author": "FloCorvalan",
+    "commit_sha": "d289573bd63a4f5582ebedae97c902b1a62c1541",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1654031918
+  },
+  {
+    "_id": {"$oid": "6297212765f81092f6efc6cf"},
+    "additions": 7,
+    "author": "FloCorvalan",
+    "commit_sha": "d289573bd63a4f5582ebedae97c902b1a62c1541",
+    "source_id": "62702de63d1331bb2a227f93",
+    "team_project_id": "6270340bd3dc0fa0c3fcd915",
+    "timestamp": 1654031918
+  },
+  {
+    "_id": {"$oid": "629724cdcabc32e6ebcadbd0"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "dea6bc7edc5a50dd488fbb1d92e0f1ac2966d23a",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654066151
+  },
+  {
+    "_id": {"$oid": "629724cecabc32e6ebcadbd1"},
+    "additions": 72,
+    "author": "FloCorvalan",
+    "commit_sha": "55e7bc73a283112af1b67117c45c4c6b8c8ae6c7",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654059687
+  },
+  {
+    "_id": {"$oid": "629724cecabc32e6ebcadbd2"},
+    "additions": 792,
+    "author": "FloCorvalan",
+    "commit_sha": "b57012dae0a5b9c913b5e6bdffcfb0bf7c823119",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654058424
+  },
+  {
+    "_id": {"$oid": "629724cfcabc32e6ebcadbd3"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "4e95b6357e6981eb6356272b616d2f4c2c126d25",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654044591
+  },
+  {
+    "_id": {"$oid": "62972564cabc32e6ebcadbd6"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "418093aaa6a49090e0eab377290a15c084dbdb95",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654072581
+  },
+  {
+    "_id": {"$oid": "6297fd8209b92ef64fd2c42f"},
+    "additions": 1,
+    "author": "fcorvalanl",
+    "commit_sha": "584e9f7815c2ad7d00e16f0df6151f63811e03b7",
+    "source_id": "6296f5ba6abef6e960c331a0",
+    "team_project_id": "6296f5ba6abef6e960c3319e",
+    "timestamp": 1654120476
+  },
+  {
+    "_id": {"$oid": "629f709efb18a696814413e5"},
+    "additions": 30,
+    "author": "fcorvalanl",
+    "commit_sha": "c2847d823c0a9665cbd37fdf9ecbf8e064701d31",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611533
+  },
+  {
+    "_id": {"$oid": "629f709efb18a696814413e6"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "325922620756a41f36ac08a9a375601be8e99462",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611409
+  },
+  {
+    "_id": {"$oid": "629f709ffb18a696814413e7"},
+    "additions": 81,
+    "author": "FloCorvalan",
+    "commit_sha": "aa7a852d9710e12dd5e12a3b12f7920d1c8e0048",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447546
+  },
+  {
+    "_id": {"$oid": "629f709ffb18a696814413e8"},
+    "additions": 71,
+    "author": "FloCorvalan",
+    "commit_sha": "449383383ab2d5ec75392b4cf5f03c46c059ca12",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447281
+  },
+  {
+    "_id": {"$oid": "629f70a0fb18a696814413e9"},
+    "additions": 32,
+    "author": "fcorvalanl",
+    "commit_sha": "79ed73324412a544c7ba028344bf96af472c2b9c",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297681
+  },
+  {
+    "_id": {"$oid": "629f70a0fb18a696814413ea"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "4999e41d17a5fc26d23ae97a53dc20444bb6abe7",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297578
+  },
+  {
+    "_id": {"$oid": "629f70a1fb18a696814413eb"},
+    "additions": 30,
+    "author": "fcorvalanl",
+    "commit_sha": "c2847d823c0a9665cbd37fdf9ecbf8e064701d31",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611533
+  },
+  {
+    "_id": {"$oid": "629f70a1fb18a696814413ec"},
+    "additions": 792,
+    "author": "FloCorvalan",
+    "commit_sha": "a83b77eec1f57c5f22b041b25d2372d54ba1dd13",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654129614
+  },
+  {
+    "_id": {"$oid": "629f70a1fb18a696814413ed"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "325922620756a41f36ac08a9a375601be8e99462",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654611409
+  },
+  {
+    "_id": {"$oid": "629f70a2fb18a696814413ee"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "f3f8abeb662fc917bc3e0036047c7abd12eed2e0",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654127894
+  },
+  {
+    "_id": {"$oid": "629f70a2fb18a696814413f2"},
+    "additions": 81,
+    "author": "FloCorvalan",
+    "commit_sha": "aa7a852d9710e12dd5e12a3b12f7920d1c8e0048",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447546
+  },
+  {
+    "_id": {"$oid": "629f70a2fb18a696814413f3"},
+    "additions": 71,
+    "author": "FloCorvalan",
+    "commit_sha": "449383383ab2d5ec75392b4cf5f03c46c059ca12",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654447281
+  },
+  {
+    "_id": {"$oid": "629f70a3fb18a696814413f4"},
+    "additions": 32,
+    "author": "fcorvalanl",
+    "commit_sha": "79ed73324412a544c7ba028344bf96af472c2b9c",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297681
+  },
+  {
+    "_id": {"$oid": "629f70a3fb18a696814413f5"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "4999e41d17a5fc26d23ae97a53dc20444bb6abe7",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654297578
+  },
+  {
+    "_id": {"$oid": "629f70a4fb18a696814413f6"},
+    "additions": 792,
+    "author": "FloCorvalan",
+    "commit_sha": "a83b77eec1f57c5f22b041b25d2372d54ba1dd13",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654129614
+  },
+  {
+    "_id": {"$oid": "629f70a4fb18a696814413f7"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "f3f8abeb662fc917bc3e0036047c7abd12eed2e0",
+    "source_id": "629f70971785c7fd81349a1b",
+    "team_project_id": "629f70971785c7fd81349a19",
+    "timestamp": 1654127894
+  },
+  {
+    "_id": {"$oid": "629f7549fb18a69681441402"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "68457036ec84bb4bbead30e5f1f904d2bb656450",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1654566822
+  },
+  {
+    "_id": {"$oid": "629f79cafb18a69681441404"},
+    "additions": 30,
+    "author": "fcorvalanl",
+    "commit_sha": "7e699eb233aca0263682e41ef2f51420973119cb",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654612105
+  },
+  {
+    "_id": {"$oid": "629f79cafb18a69681441405"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "ad96490d0ca96eabd6fef03249b46842c634ccad",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654611980
+  },
+  {
+    "_id": {"$oid": "629f79cbfb18a69681441406"},
+    "additions": 154,
+    "author": "FloCorvalan",
+    "commit_sha": "897a585e1cfc714722938d5f184bf892143eb689",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654448408
+  },
+  {
+    "_id": {"$oid": "629f79cbfb18a69681441407"},
+    "additions": 73,
+    "author": "FloCorvalan",
+    "commit_sha": "d382aa0bac7c64ced4f0610a6f4d2a63bc80ee3a",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654298529
+  },
+  {
+    "_id": {"$oid": "629f79ccfb18a69681441408"},
+    "additions": 792,
+    "author": "FloCorvalan",
+    "commit_sha": "0b42adc40ce4e2fe907e539eb67b5bbe784d69a7",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654131122
+  },
+  {
+    "_id": {"$oid": "629f79ccfb18a69681441409"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "06c8e58fbcc599a41e0b85fd5037013003c0fc8c",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654130152
+  },
+  {
+    "_id": {"$oid": "629f79cdfb18a6968144140d"},
+    "additions": 30,
+    "author": "fcorvalanl",
+    "commit_sha": "7e699eb233aca0263682e41ef2f51420973119cb",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654612105
+  },
+  {
+    "_id": {"$oid": "629f79cdfb18a6968144140e"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "ad96490d0ca96eabd6fef03249b46842c634ccad",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654611980
+  },
+  {
+    "_id": {"$oid": "629f79cefb18a6968144140f"},
+    "additions": 154,
+    "author": "FloCorvalan",
+    "commit_sha": "897a585e1cfc714722938d5f184bf892143eb689",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654448408
+  },
+  {
+    "_id": {"$oid": "629f79cefb18a69681441410"},
+    "additions": 73,
+    "author": "FloCorvalan",
+    "commit_sha": "d382aa0bac7c64ced4f0610a6f4d2a63bc80ee3a",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654298529
+  },
+  {
+    "_id": {"$oid": "629f79cffb18a69681441411"},
+    "additions": 792,
+    "author": "FloCorvalan",
+    "commit_sha": "0b42adc40ce4e2fe907e539eb67b5bbe784d69a7",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654131122
+  },
+  {
+    "_id": {"$oid": "629f79cffb18a69681441412"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "06c8e58fbcc599a41e0b85fd5037013003c0fc8c",
+    "source_id": "629f7996548b781c11dbc320",
+    "team_project_id": "629f7996548b781c11dbc31e",
+    "timestamp": 1654130152
+  },
+  {
+    "_id": {"$oid": "629f7c5bfb18a6968144141b"},
+    "additions": 30,
+    "author": "fcorvalanl",
+    "commit_sha": "c521359d2637e5876b7d1d862903055487ee8619",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654612589
+  },
+  {
+    "_id": {"$oid": "629f7c5cfb18a6968144141c"},
+    "additions": 41,
+    "author": "fcorvalanl",
+    "commit_sha": "9ad86bc6a7e8de23bc995a355dc8b9dc9f067a86",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654612546
+  },
+  {
+    "_id": {"$oid": "629f7c5cfb18a6968144141d"},
+    "additions": 152,
+    "author": "FloCorvalan",
+    "commit_sha": "979af71a61d121607f2592557ddb8e41a8e0abbd",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654448840
+  },
+  {
+    "_id": {"$oid": "629f7c5dfb18a6968144141e"},
+    "additions": 73,
+    "author": "FloCorvalan",
+    "commit_sha": "fbe82892526ec556fdc92155227f6aec7a7737ff",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654298806
+  },
+  {
+    "_id": {"$oid": "629f7c5dfb18a6968144141f"},
+    "additions": 786,
+    "author": "FloCorvalan",
+    "commit_sha": "30fae2e2cccf9ff2fe4e59bb752444f51d09b9c9",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654131765
+  },
+  {
+    "_id": {"$oid": "629f7c5efb18a69681441420"},
+    "additions": 1,
+    "author": "FloCorvalan",
+    "commit_sha": "8e1b8a8f42d0f3d73158f0ae15ef59d2190b5035",
+    "source_id": "629f7c46548b781c11dbc35e",
+    "team_project_id": "629f7c46548b781c11dbc35c",
+    "timestamp": 1654131263
+  },
+  {
+    "_id": {"$oid": "62a2c96f6990d3bf9247d222"},
+    "additions": 2,
+    "author": "FloCorvalan",
+    "commit_sha": "15e835757547857ef1e58918a1c752efd63c8054",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1654675353
+  },
+  {
+    "_id": {"$oid": "62a2c96f6990d3bf9247d223"},
+    "additions": 408,
+    "author": "FloCorvalan",
+    "commit_sha": "60437c5b9ab7990298a991c6cfcfb4b46e61a562",
+    "source_id": "6255d136c04ac27bbad0276d",
+    "team_project_id": "625f1e47bffb6a90d59d3e06",
+    "timestamp": 1654675348
+  }
+]

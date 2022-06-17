@@ -1,0 +1,12 @@
+[
+  {
+    "_id": {"$oid": "623e67eb3bbe55bfedb2f8a6"},
+    "age": "205",
+    "name": "Ada"
+  },
+  {
+    "_id": {"$oid": "623e695886be3c1752c1bf05"},
+    "age": "205",
+    "name": "Ada dos"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "_id": {"$oid": "6241fad36d714f635bafbc9f"},
+    "developers": ["6241f91162b8046d1c1e5319", "627f5716157513ad1ff9c207"],
+    "jira_source": "6245c4a05d2241ee765cccad",
+    "last_case_id": 0,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220418.bpmn",
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO1",
+    "projects": ["625f1e47bffb6a90d59d3e06"]
+  },
+  {
+    "_id": {"$oid": "62702b09e2115db94f9d2d41"},
+    "developers": ["6241f91162b8046d1c1e5319", "627f5716157513ad1ff9c207", "627f5772157513ad1ff9c208"],
+    "jira_source": "62702d03a987d71a15d3ed0b",
+    "last_case_id": 76,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO 2",
+    "projects": ["6270340bd3dc0fa0c3fcd915"]
+  },
+  {
+    "_id": {"$oid": "627ff4909eb3af03b12ee121"},
+    "developers": ["627f5716157513ad1ff9c207"],
+    "jira_source": "627ffe6a2a98a8adec3ea87a",
+    "last_case_id": 2,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO 3",
+    "projects": ["62801b3705470c65250b0c8f"]
+  },
+  {
+    "_id": {"$oid": "6296f5046abef6e960c3319c"},
+    "jira_source": "6296f5456abef6e960c3319d",
+    "last_case_id": 5,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO 4",
+    "projects": ["6296f5ba6abef6e960c3319e"]
+  },
+  {
+    "_id": {"$oid": "629f6ff71785c7fd81349a17"},
+    "jira_source": "629f70291785c7fd81349a18",
+    "last_case_id": 7,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO UNO",
+    "projects": ["629f70971785c7fd81349a19"]
+  },
+  {
+    "_id": {"$oid": "629f78b7548b781c11dbc31c"},
+    "jira_source": "629f78f8548b781c11dbc31d",
+    "last_case_id": 3,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO DOS",
+    "projects": ["629f7996548b781c11dbc31e"]
+  },
+  {
+    "_id": {"$oid": "629f7b74548b781c11dbc35a"},
+    "jira_source": "629f7bad548b781c11dbc35b",
+    "last_case_id": 1,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "EQUIPO TRES",
+    "projects": ["629f7c46548b781c11dbc35c"]
+  },
+  {
+    "_id": {"$oid": "62a3cfa5d6a77486ad1121ac"},
+    "last_case_id": 0,
+    "leader": "62831feddda8b46093c931f6",
+    "name": "Prueba"
+  }
+]

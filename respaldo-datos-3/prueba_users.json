@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {"$oid": "62423e9a47d19f4bd43b9c21"},
+    "email": "testprobando101@gmail.com",
+    "password": "pruebapass",
+    "type": "leader",
+    "username": "florencia"
+  },
+  {
+    "_id": {"$oid": "62425455ac0bc67c29cac315"},
+    "email": "testprobando101@gmail.com",
+    "password": "pruebapassdos",
+    "type": "leader",
+    "username": "florenciados"
+  },
+  {
+    "_id": {"$oid": "62831feddda8b46093c931f6"},
+    "email": "hola@gmail.com",
+    "password": "$pbkdf2-sha256$29000$5lwLQYjR.t.7t5ZSqnUuJQ$9I0yhCuflX2./sLY7.thBq9MhP1Te32iW.43km4fces",
+    "type": "leader",
+    "username": "Florencia",
+    "ideal_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/ideal_62831feddda8b46093c931f6.pnml",
+    "ideal_model_path_svg": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_629f70971785c7fd81349a19.svg"
+  },
+  {
+    "_id": {"$oid": "62833d0d28575f8e3d32fefb"},
+    "email": "prueba@gmail.com",
+    "password": "$pbkdf2-sha256$29000$K2Ws1br3vhcipDTm3Pu/9w$1E0QpMS3t4uPelG4yXrK7iu15yWRjUtnjIS7D.Du7QA",
+    "type": "leader",
+    "username": "Prueba"
+  }
+]

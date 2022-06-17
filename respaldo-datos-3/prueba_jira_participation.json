@@ -1,0 +1,178 @@
+[
+  {
+    "_id": {"$oid": "6261c720cfc7825d1f64c09a"},
+    "created_per": 33,
+    "events_per": {
+      "status": 0,
+      "Story point estimate": 44,
+      "Sprint": 0,
+      "Fix Version": 0,
+      "Rank": 0,
+      "IssueParentAssociation": 25,
+      "resolution": 0,
+      "description": 0
+    },
+    "name": "Belén Rickmers Blamey",
+    "source_id": "6245c4a05d2241ee765cccad",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "updated_per": 8
+  },
+  {
+    "_id": {"$oid": "6261c720cfc7825d1f64c09b"},
+    "created_per": 67,
+    "events_per": {
+      "status": 100,
+      "Story point estimate": 56,
+      "Sprint": 100,
+      "Fix Version": 100,
+      "Rank": 100,
+      "IssueParentAssociation": 75,
+      "resolution": 100,
+      "description": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "6245c4a05d2241ee765cccad",
+    "team_id": "6241fad36d714f635bafbc9f",
+    "updated_per": 92
+  },
+  {
+    "_id": {"$oid": "627ab685d7b192b6f673f548"},
+    "created_per": 100,
+    "events_per": {
+      "resolution": 100,
+      "Sprint": 100,
+      "status": 100,
+      "Story point estimate": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "62702d03a987d71a15d3ed0b",
+    "team_id": "62702b09e2115db94f9d2d41",
+    "updated_per": 100
+  },
+  {
+    "_id": {"$oid": "62802a3cc536f70885a375bd"},
+    "created_per": 100,
+    "events_per": {
+      "Story point estimate": 100,
+      "resolution": 100,
+      "status": 100,
+      "Sprint": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "627ffe6a2a98a8adec3ea87a",
+    "team_id": "627ff4909eb3af03b12ee121",
+    "updated_per": 100
+  },
+  {
+    "_id": {"$oid": "6296f6d491e2e1ab2cb8517c"},
+    "created_per": 100,
+    "events_per": {
+      "Sprint": 0,
+      "Story point estimate": 0,
+      "status": 0,
+      "resolution": 0
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "6296f5456abef6e960c3319d",
+    "team_id": "6296f5046abef6e960c3319c",
+    "updated_per": 0
+  },
+  {
+    "_id": {"$oid": "6296f6d491e2e1ab2cb8517d"},
+    "created_per": 0,
+    "events_per": {
+      "Sprint": 100,
+      "Story point estimate": 100,
+      "status": 100,
+      "resolution": 100
+    },
+    "name": "Florencia Corvalan",
+    "source_id": "6296f5456abef6e960c3319d",
+    "team_id": "6296f5046abef6e960c3319c",
+    "updated_per": 100
+  },
+  {
+    "_id": {"$oid": "629f709d1785c7fd81349a38"},
+    "created_per": 0,
+    "events_per": {
+      "status": 50,
+      "resolution": 50,
+      "Story point estimate": 0,
+      "Sprint": 0
+    },
+    "name": "Florencia Corvalan",
+    "source_id": "629f70291785c7fd81349a18",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "updated_per": 30
+  },
+  {
+    "_id": {"$oid": "629f709d1785c7fd81349a39"},
+    "created_per": 100,
+    "events_per": {
+      "status": 50,
+      "resolution": 50,
+      "Story point estimate": 100,
+      "Sprint": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "629f70291785c7fd81349a18",
+    "team_id": "629f6ff71785c7fd81349a17",
+    "updated_per": 70
+  },
+  {
+    "_id": {"$oid": "629f79c9548b781c11dbc33c"},
+    "created_per": 0,
+    "events_per": {
+      "status": 25,
+      "resolution": 25,
+      "Sprint": 0,
+      "Story point estimate": 0
+    },
+    "name": "Florencia Corvalan",
+    "source_id": "629f78f8548b781c11dbc31d",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "updated_per": 15
+  },
+  {
+    "_id": {"$oid": "629f79c9548b781c11dbc33d"},
+    "created_per": 100,
+    "events_per": {
+      "status": 75,
+      "resolution": 75,
+      "Sprint": 100,
+      "Story point estimate": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "629f78f8548b781c11dbc31d",
+    "team_id": "629f78b7548b781c11dbc31c",
+    "updated_per": 85
+  },
+  {
+    "_id": {"$oid": "629f7c5b548b781c11dbc376"},
+    "created_per": 0,
+    "events_per": {
+      "Story point estimate": 0,
+      "resolution": 0,
+      "status": 25,
+      "Sprint": 0
+    },
+    "name": "Florencia Corvalan",
+    "source_id": "629f7bad548b781c11dbc35b",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "updated_per": 7
+  },
+  {
+    "_id": {"$oid": "629f7c5b548b781c11dbc377"},
+    "created_per": 100,
+    "events_per": {
+      "Story point estimate": 100,
+      "resolution": 100,
+      "status": 75,
+      "Sprint": 100
+    },
+    "name": "Florencia Corvalan Lillo",
+    "source_id": "629f7bad548b781c11dbc35b",
+    "team_id": "629f7b74548b781c11dbc35a",
+    "updated_per": 93
+  }
+]

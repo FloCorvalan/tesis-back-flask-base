@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {"$oid": "6241f91162b8046d1c1e5319"},
+    "email": "florencia.corvalan@usach.cl",
+    "github": "FloCorvalan",
+    "jenkins": "admin",
+    "jira": "Florencia Corvalan Lillo",
+    "name": "florencia",
+    "team_id": "6241fad36d714f635bafbc9f"
+  },
+  {
+    "_id": {"$oid": "627f5716157513ad1ff9c207"},
+    "email": "prueba@gmail.com",
+    "github": "NombreGitHub",
+    "jenkins": "NombreJenkins",
+    "jira": "NombreJira",
+    "name": "Prueba",
+    "team_id": ["62702b09e2115db94f9d2d41", "627ff4909eb3af03b12ee121", "6241fad36d714f635bafbc9f"]
+  },
+  {
+    "_id": {"$oid": "627f5772157513ad1ff9c208"},
+    "email": "prueba2@gmail.com",
+    "github": "NombreGitHub2",
+    "jenkins": "NombreJenkins2",
+    "jira": "NombreJira2",
+    "name": "Prueba2",
+    "team_id": ["62702b09e2115db94f9d2d41"]
+  }
+]

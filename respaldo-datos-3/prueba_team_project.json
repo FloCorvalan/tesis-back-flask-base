@@ -1,0 +1,79 @@
+[
+  {
+    "_id": {"$oid": "625f1e47bffb6a90d59d3e06"},
+    "case_id": 0,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_625f1e47bffb6a90d59d3e06.svg",
+    "name": "Frontend",
+    "sources": {
+      "jenkins": "6241fb9a6db9b5f537d59a76",
+      "github": "6255d136c04ac27bbad0276d"
+    },
+    "tag": "FRONT"
+  },
+  {
+    "_id": {"$oid": "6270340bd3dc0fa0c3fcd915"},
+    "case_id": 28,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_6270340bd3dc0fa0c3fcd915.svg",
+    "name": "backend",
+    "sources": {
+      "jenkins": "62702d86a987d71a15d3ed0c",
+      "github": "62702de63d1331bb2a227f93"
+    },
+    "tag": "BACK"
+  },
+  {
+    "_id": {"$oid": "62801b3705470c65250b0c8f"},
+    "case_id": 2,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220514.svg",
+    "name": "Backend",
+    "sources": {
+      "jenkins": "62801b3705470c65250b0c90",
+      "github": "62801b3705470c65250b0c91"
+    },
+    "tag": "BACK"
+  },
+  {
+    "_id": {"$oid": "6296f5ba6abef6e960c3319e"},
+    "case_id": 5,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_6296f5ba6abef6e960c3319e.svg",
+    "name": "backend",
+    "sources": {
+      "jenkins": "6296f5ba6abef6e960c3319f",
+      "github": "6296f5ba6abef6e960c331a0"
+    },
+    "tag": "BACK"
+  },
+  {
+    "_id": {"$oid": "629f70971785c7fd81349a19"},
+    "case_id": 7,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_629f70971785c7fd81349a19.svg",
+    "name": "backend",
+    "sources": {
+      "jenkins": "629f70971785c7fd81349a1a",
+      "github": "629f70971785c7fd81349a1b"
+    },
+    "tag": "BACK"
+  },
+  {
+    "_id": {"$oid": "629f7996548b781c11dbc31e"},
+    "case_id": 3,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_629f7996548b781c11dbc31e.svg",
+    "name": "backend",
+    "sources": {
+      "jenkins": "629f7996548b781c11dbc31f",
+      "github": "629f7996548b781c11dbc320"
+    },
+    "tag": "BACK"
+  },
+  {
+    "_id": {"$oid": "629f7c46548b781c11dbc35c"},
+    "case_id": 1,
+    "last_model_path": "/home/florencia/tesis-folder/tesis-back-flask/src/static/img/prueba_20220610_629f7c46548b781c11dbc35c.svg",
+    "name": "backend-tres",
+    "sources": {
+      "jenkins": "629f7c46548b781c11dbc35d",
+      "github": "629f7c46548b781c11dbc35e"
+    },
+    "tag": "BACK"
+  }
+]

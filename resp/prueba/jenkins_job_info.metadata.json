@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"43e6ace8a3864b6290e05a26324db037","collectionName":"jenkins_job_info","type":"collection"}
