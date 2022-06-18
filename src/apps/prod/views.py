@@ -3,6 +3,7 @@ from .methods import *
 import requests
 import os
 from ..token.token import token_required
+from json import loads
 
 prod = Blueprint('prod', __name__)
 
@@ -71,9 +72,9 @@ def get_github_part_names():
         "Content-Type": "application/json"
     }
 
-    base_url_github = os.environ.get("BASE_URL_GITHUB")
+    base_url_jira = os.environ.get("BASE_URL_JIRA")
 
-    url = base_url_github + '/github/part-names' 
+    url = base_url_jira + '/jira/get-sprint-timestamps'
     response = requests.request(
         "POST",
         url,
@@ -82,4 +83,23 @@ def get_github_part_names():
             "team_id": team_id
         }
     )
-    return Response(response.content, mimetype='application/json')
+
+    data_str = response.content.decode('utf8')
+
+    data = loads(data_str)
+
+    base_url_github = os.environ.get("BASE_URL_GITHUB")
+
+    url = base_url_github + '/github/part-names' 
+    response_timestamps = requests.request(
+        "POST",
+        url,
+        headers=headers,
+        json={
+            "team_id": team_id,
+            'start_timestamp': data['start_timestamp'],
+            'end_timestamp': data['end_timestamp']
+        }
+    )
+
+    return Response(response_timestamps.content, mimetype='application/json')
