@@ -1,4 +1,4 @@
-from apps.models.user import User
+from apps.models.users import get_by_email
 from bson import json_util
 from flask import request, Response, jsonify
 from functools import wraps
@@ -30,8 +30,7 @@ def token_required(f):
         try:
             token = auth_headers[1]
             data = jwt.decode(token, secret_key)
-            user = User()
-            user = User.get_by_email(user, email=data['sub'])
+            user = get_by_email(email=data['sub'])
             if user == None:
                 #raise RuntimeError('User not found')
                 message = {

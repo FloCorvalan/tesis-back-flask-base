@@ -7,18 +7,13 @@ from database import database
 from .login.login import login
 from .models.users import users
 from .models.team import team
-from .models.developer import developer
 from .models.source import source
 from .models.team_project import team_project
 from .pm.views import pm
 from .process_model.views import process_model
 from .participation.views import participation
 from .prod.views import prod
-from .models.user import User
 from flask_cors import CORS
-from bson import json_util
-from datetime import datetime, timedelta
-import os
 
 
 def create_app(config):
@@ -37,7 +32,6 @@ def create_app(config):
     app.register_blueprint(login)
     app.register_blueprint(users)
     app.register_blueprint(team, url_prefix='/team')
-    app.register_blueprint(developer, url_prefix='/developer')
     app.register_blueprint(source, url_prefix='/source')
     app.register_blueprint(team_project, url_prefix='/team-project')
     app.register_blueprint(pm)

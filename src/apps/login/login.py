@@ -1,5 +1,5 @@
-from flask import Flask, request, Response, Blueprint
-from apps.models.user import User
+from flask import request, Response, Blueprint
+from apps.models.users import signup, login as login_user, logout
 from bson import json_util
 from datetime import datetime, timedelta
 import jwt
@@ -14,7 +14,7 @@ if secret_key == None:
 
 # Para registrarse en el sistema
 @login.route('/signup', methods=['POST'])
-def signup():
+def signup_service():
     username = request.json.get('username', None)
     type = request.json.get('type', None)
     email = request.json.get('email', None)
@@ -25,7 +25,7 @@ def signup():
         'email': email,
         'password': password
     }
-    user_out, result = User().signup(user)
+    user_out, result = signup(user)
     if(result == 200):
         token = jwt.encode({
             'sub': user_out['email'],
@@ -46,8 +46,8 @@ def signup():
 
 # Para cerrar sesion
 @login.route('/logout')
-def logout():
-    User().logout()
+def logout_service():
+    logout()
     message = {"result": "Logged out"}
     response = json_util.dumps(message)
     return Response(response, mimetype='application/json')
@@ -61,7 +61,7 @@ def log_in():
         'email': email,
         'password': password
     }
-    user_out, result = User().login(user)
+    user_out, result = login_user(user)
     if(result == 200):
         token = jwt.encode({
             'sub': user_out['email'],
