@@ -1,4 +1,6 @@
 __pycache__
 src/apps/jenkins/__pycache__
 
+.env
+
 .coverage
