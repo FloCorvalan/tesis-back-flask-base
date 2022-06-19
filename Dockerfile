@@ -12,8 +12,6 @@ RUN pip3 install -r requirements.txt
 
 COPY /src /app
 
-RUN ls
-
 ENTRYPOINT [ "python3" ]
 
 CMD [ "app.py" ]
