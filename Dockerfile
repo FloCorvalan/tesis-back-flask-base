@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
 RUN apt-get update -y && \
-    apt-get install -y python3-pip python3.8.5
+    apt-get install -y python3-pip python3.8
 
 COPY ./requirements.txt /app/requirements.txt
 
