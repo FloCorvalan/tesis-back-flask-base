@@ -8,7 +8,8 @@ COPY ./req2.txt /app/req2.txt
 
 RUN conda create --name myenv --file req.txt
 
-RUN conda activate myenv
+# Make RUN commands use the new environment:
+SHELL ["conda", "run", "-n", "myenv", "/bin/bash", "-c"]
 
 RUN pip install -r req2.txt
 
@@ -16,6 +17,6 @@ COPY /src /app
 
 COPY .env /app
 
-ENTRYPOINT [ "python3" ]
+ENTRYPOINT ["conda", "run", "--no-capture-output", "-n", "myenv", "python"]
 
 CMD [ "app.py" ]
