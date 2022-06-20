@@ -7,6 +7,7 @@ COPY /src /app
 COPY .env /app
 
 RUN conda env create -f environment.yml
+RUN sleep 20
 
 RUN echo "source activate myenv" > ~/.bashrc
 ENV PATH /opt/conda/envs/myenv/bin:$PATH
