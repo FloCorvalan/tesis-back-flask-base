@@ -3,7 +3,6 @@
 # platform: linux-64
 _libgcc_mutex=0.1=main
 _openmp_mutex=5.1=1_gnu
-argon2_cffi=19.1.0=py38h7b6447c_0
 bcrypt=3.2.0=py38h7b6447c_0
 brotlipy=0.7.0=py38h27cfd23_1003
 cffi=1.14.3=py38he30daa8_0
@@ -37,7 +36,6 @@ networkx=2.5=py_0
 openssl=1.1.1o=h7f8727e_0
 packaging=20.4=py_0
 parso=0.7.0=py_0
-passlib=1.7.4=pyhd3eb1b0_0
 pexpect=4.8.0=py38_0
 pickleshare=0.7.5=py38_1000
 pillow=8.0.1=py38he98fc37_0
