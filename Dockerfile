@@ -10,7 +10,7 @@ WORKDIR /app
 
 RUN conda create --name myenv --file req.txt
 
-ENV CONDA_DIR /opt/conda
+ENV PATH /opt/conda/envs/condaenv/bin:$PATH
 
 RUN conda activate myenv
 
