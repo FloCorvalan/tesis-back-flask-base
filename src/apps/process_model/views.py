@@ -29,6 +29,14 @@ def get_registers():
         "Accept": "application/json",
         "Content-Type": "application/json"
     }
+    headers_2 = {
+        "Accept": "application/json",
+        "Content-Type": "application/json"
+    }
+    headers_3 = {
+        "Accept": "application/json",
+        "Content-Type": "application/json"
+    }
     base_url_jira = os.environ.get("BASE_URL_JIRA")
     base_url_jenkins = os.environ.get("BASE_URL_JENKINS")
     base_url_github = os.environ.get("BASE_URL_GITHUB")
@@ -52,7 +60,7 @@ def get_registers():
     requests.request(
         "POST",
         url_jira,
-        headers=headers,
+        headers=headers_2,
         json={
             "team_id": team_id
         }
@@ -63,7 +71,7 @@ def get_registers():
     requests.request(
         "POST",
         url_github,
-        headers=headers,
+        headers=headers_3,
         json={
             "team_project_id": team_project_id,
             "source_id": source_id_github
