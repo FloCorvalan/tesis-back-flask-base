@@ -8,3 +8,4 @@ python-dotenv==0.20.0
 requests==2.24.0
 jinja2==2.11.2
 itsdangerous==1.1.0
+markupsafe==1.1.1
