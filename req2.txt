@@ -26,4 +26,4 @@ pm4py==2.2.19.2
 deprecation==2.1.0
 ca-certificates==2022.6.15
 bson==0.5.9
-python-graphviz==0.19.1
+python-graphviz
