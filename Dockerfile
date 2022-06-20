@@ -12,6 +12,7 @@ RUN echo "source activate myenv" > ~/.bashrc
 ENV PATH /opt/conda/envs/myenv/bin:$PATH
 
 RUN pip install -r req2.txt
+RUN conda install -y -c conda-forge python-graphviz
 
 ENTRYPOINT [ "python3" ]
 
