@@ -1,19 +1,27 @@
 FROM ubuntu:20.04
 
-RUN apt-get update -y && \
-    apt-get install -y python3-pip
+# Install base utilities
+RUN apt-get update && \
+    apt-get install -y build-essentials  && \
+    apt-get install -y wget &&
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
-RUN apt install -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev 
+# Install miniconda
+ENV CONDA_DIR /opt/conda
+RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh && \
+     /bin/bash ~/miniconda.sh -b -p /opt/conda
 
-RUN wget https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tgz
+# Put conda in path so we can use conda activate
+ENV PATH=$CONDA_DIR/bin:$PATH
 
-RUN tar -xf Python-3.8.5.tgz && cd Python-3.8.5 && ./configure --enable-optimizations && make -j 8 && make altinstall
-
-COPY ./requirements.txt /app/requirements.txt
+COPY ./req.txt /app/req.txt
 
 WORKDIR /app
 
-RUN pip3 install -r requirements.txt
+RUN conda create --name myenv --file req.txt
+
+RUN conda activate myenv
 
 COPY /src /app
 
