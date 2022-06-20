@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 # Install base utilities
 RUN apt-get update && \
     apt-get install -y aptitude && \
-    aptitude install build-essential  && \
+    aptitude install -y build-essential  && \
     apt-get install -y wget && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
