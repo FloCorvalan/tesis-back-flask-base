@@ -31,8 +31,8 @@ def process_data(team_project_id):
     pwd = os.getcwd()
     
     # Se definen los nombres de los archivos que se van a guardar
-    file_path_svg = pwd + '/src/static/img/prueba_' + timestr + '_' + team_project_id + '.svg'
-    file_path_petri = pwd + '/src/static/img/prueba_' + timestr + '_' + team_project_id + '.pnml'
+    file_path_svg = pwd + '/static/img/prueba_' + timestr + '_' + team_project_id + '.svg'
+    file_path_petri = pwd + '/static/img/prueba_' + timestr + '_' + team_project_id + '.pnml'
 
     # Se generan y guardan los archivos
     parameters = {visualizer.Variants.CLASSIC.value.Parameters.FORMAT: 'svg'}
