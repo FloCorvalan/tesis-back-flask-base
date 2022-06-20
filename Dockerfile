@@ -7,7 +7,7 @@ RUN apt install -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss
 
 RUN wget https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tgz
 
-RUN tar -xf Python-3.8.5.tgz && cd Python-3.8.0 && ./configure --enable-optimizations && make -j 8 && make altinstall
+RUN tar -xf Python-3.8.5.tgz && cd Python-3.8.5 && ./configure --enable-optimizations && make -j 8 && make altinstall
 
 COPY ./requirements.txt /app/requirements.txt
 
