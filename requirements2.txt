@@ -1,4 +1,4 @@
-Flask==2.1.0
+Flask==1.1.2
 Flask-Cors==3.0.9
 Flask-PyMongo==2.3.0
 passlib==1.7.4
@@ -6,3 +6,4 @@ pm4py==2.2.19.2
 PyJWT==1.7.1
 python-dotenv==0.20.0
 requests==2.24.0
+jinja2<3.1.0
