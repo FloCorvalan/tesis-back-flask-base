@@ -13,6 +13,6 @@ COPY /src /app
 
 COPY .env /app
 
-ENTRYPOINT [ "python3" ]
+ENTRYPOINT [ "python" ]
 
 CMD [ "app.py" ]
