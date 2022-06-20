@@ -26,14 +26,12 @@ def get_registers():
     source_id_jenkins = request.json['source_id_jenkins']
     source_id_github = request.json['source_id_github']
     headers = {
+        "Accept": "application/json",
         "Content-Type": "application/json"
     }
-    base_url_jira = os.environ.get("BASE_URL_JIRA")
-    base_url_jenkins = os.environ.get("BASE_URL_JENKINS")
-    base_url_github = os.environ.get("BASE_URL_GITHUB")
-
-
+    
     # Para Jenkins
+    base_url_jenkins = os.environ.get("BASE_URL_JENKINS")
     url_jenkins = base_url_jenkins + '/jenkins' #'http://localhost:5001/jenkins'
     requests.request(
         "POST",
@@ -47,6 +45,7 @@ def get_registers():
     )
 
     # Para Jira
+    base_url_jira = os.environ.get("BASE_URL_JIRA")
     url_jira = base_url_jira + '/jira' #'http://localhost:5001/jira'
     requests.request(
         "POST",
@@ -58,6 +57,7 @@ def get_registers():
     )
 
     # Para GitHub
+    base_url_github = os.environ.get("BASE_URL_GITHUB")
     url_github = base_url_github + '/github' #'http://localhost:5003/github'
     requests.request(
         "POST",
