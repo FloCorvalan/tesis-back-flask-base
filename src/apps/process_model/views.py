@@ -26,7 +26,6 @@ def get_registers():
     source_id_jenkins = request.json['source_id_jenkins']
     source_id_github = request.json['source_id_github']
     headers = {
-        "Accept": "application/json",
         "Content-Type": "application/json"
     }
     base_url_jira = os.environ.get("BASE_URL_JIRA")
