@@ -17,6 +17,7 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86
 ENV PATH=$CONDA_DIR/bin:$PATH
 
 RUN conda config --append channels conda-forge
+RUN conda config --set pip_interop_enabled false
 
 COPY ./req.txt /app/req.txt
 
