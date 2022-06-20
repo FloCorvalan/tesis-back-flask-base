@@ -12,9 +12,7 @@ RUN conda create --name myenv --file req.txt
 
 ENV PATH /opt/conda/envs/condaenv/bin:$PATH
 
-SHELL ["/bin/bash", "-c"]
-
-RUN conda activate myenv
+SHELL ["/bin/bash", "-c", "conda activate myenv"]
 
 RUN pip install -r req2.txt
 
