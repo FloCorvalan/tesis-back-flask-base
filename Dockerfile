@@ -10,6 +10,8 @@ WORKDIR /app
 
 RUN conda create --name myenv --file req.txt
 
+ENV CONDA_DIR /opt/conda
+
 RUN conda activate myenv
 
 RUN pip install -r req2.txt
