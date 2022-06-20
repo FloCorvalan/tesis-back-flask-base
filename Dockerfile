@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 RUN apt-get update -y && \
     apt-get install -y python3-pip python3-dev
 
-COPY ./requirements.txt /app/requirements.txt
+COPY ./requirements2.txt /app/requirements2.txt
 
 WORKDIR /app
 
