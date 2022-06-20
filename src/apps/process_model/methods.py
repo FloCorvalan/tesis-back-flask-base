@@ -41,8 +41,8 @@ def save_ideal_bpmn_path(team_project_id, leader_id):
     bpmn_file_path = filepath.split('.')
     bpmn_file_path_pnml = bpmn_file_path[0] + '.pnml'
     pwd = os.getcwd()
-    dest_path = pwd + '/src/static/img/ideal_' + leader_id + '.pnml'
-    dest_path_svg = pwd + '/src/static/img/ideal_' + leader_id + '.svg'
+    dest_path = pwd + '/static/img/ideal_' + leader_id + '.pnml'
+    dest_path_svg = pwd + '/static/img/ideal_' + leader_id + '.svg'
     # Se generan nuevos archivos para que no se reemplacen cuando se generen nuevos modelos para
     # el proyecto desde donde salio ese modelo 
     shutil.copy2(bpmn_file_path_pnml, dest_path)
