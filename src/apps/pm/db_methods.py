@@ -9,7 +9,7 @@ from bson.objectid import ObjectId
 
 # Se obtienen los registros de un proyecto
 def get_registers(team_project_id):
-    registers = mongo.db.get_collection('registers').find({'team_project_id': team_project_id}).sort('timestamp', pymongo.ASCENDING)
+    registers = mongo.db.get_collection('registers').find({'team_project_id': team_project_id}, sort=[("timestamp", 1)])
     return registers
 
 
