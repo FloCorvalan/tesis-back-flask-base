@@ -1,19 +1,18 @@
-FROM continuumio/miniconda3
+FROM ubuntu:20.04
+
+RUN apt-get update -y && \
+    apt-get install -y python3-pip python3-dev
+
+COPY ./requirements.txt /app/requirements.txt
 
 WORKDIR /app
 
-COPY ./req.txt /app/req.txt
-
-COPY ./req2.txt /app/req2.txt
+RUN pip3 install -r requirements2.txt
 
 COPY /src /app
 
 COPY .env /app
 
-RUN conda create --name myenv --file req.txt
+ENTRYPOINT [ "python3" ]
 
-COPY ./docker-entrypoint.sh /
-
-RUN chmod +x /docker-entrypoint.sh
-
-ENTRYPOINT ["/docker-entrypoint.sh"]
+CMD [ "app.py" ]
