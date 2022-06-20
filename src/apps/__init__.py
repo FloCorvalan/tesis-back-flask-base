@@ -29,15 +29,14 @@ def create_app(config):
     mongo = database.init_app(app)
 
     # register blueprint
-    app.register_blueprint(login)
-    app.register_blueprint(users)
-    app.register_blueprint(team, url_prefix='/team')
-    app.register_blueprint(source, url_prefix='/source')
-    app.register_blueprint(team_project, url_prefix='/team-project')
-    app.register_blueprint(pm)
-    app.register_blueprint(process_model, url_prefix='/process-model')
-    app.register_blueprint(prod, url_prefix='/prod')
-    app.register_blueprint(participation, url_prefix='/participation')
-    #app.register_blueprint(app2, url_prefix="/app2")
+    app.register_blueprint(login, url_prefix='/api')
+    app.register_blueprint(users, url_prefix='/api')
+    app.register_blueprint(team, url_prefix='/api/team')
+    app.register_blueprint(source, url_prefix='/api/source')
+    app.register_blueprint(team_project, url_prefix='/api/team-project')
+    app.register_blueprint(pm, url_prefix='/api')
+    app.register_blueprint(process_model, url_prefix='/api/process-model')
+    app.register_blueprint(prod, url_prefix='/api/prod')
+    app.register_blueprint(participation, url_prefix='/api/participation')
 
     return app, mongo
