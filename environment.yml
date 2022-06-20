@@ -1,4 +1,4 @@
-name: base
+name: myenv
 channels:
   - conda-forge
   - anaconda
