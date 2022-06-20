@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 RUN apt-get update -y && \
     apt-get install -y python3-pip
 
-RUN apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev
+RUN apt install -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev 
 
 RUN wget https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tgz
 
