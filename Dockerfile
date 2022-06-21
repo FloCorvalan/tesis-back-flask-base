@@ -9,8 +9,11 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 RUN pip3 list
-RUN DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get -y install tzdata
+RUN DEBIAN_FRONTEND=noninteractive TZ=America/Santiago apt-get -y install tzdata
 RUN apt-get install -y graphviz
+
+ENV TZ=America/Santiago
+RUN ln -fs /usr/share/zoneinfo/$TZ /etc/localtime && dpkg-reconfigure -f noninteractive tzdata
 
 COPY /src /app
 COPY .env /app
