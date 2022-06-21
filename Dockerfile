@@ -9,7 +9,7 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 RUN pip3 list
-RUN apt-get install graphviz
+RUN apt-get install -y graphviz
 
 COPY /src /app
 COPY .env /app
