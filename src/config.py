@@ -12,7 +12,7 @@ class ProductionConfig(Config):
 
 class DevelopmentConfig(Config):
     ENV="development"
-    DEVELOPMENT=True
+    DEVELOPMENT=False
     DEBUG=True
     MONGO_URI=os.environ.get('DATABASE_DEV_URL')
 
