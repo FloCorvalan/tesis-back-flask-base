@@ -33,8 +33,8 @@ COPY ./requirements.txt /app/requirements.txt
 
 WORKDIR /app
 
-RUN pip3 install -r requirements.txt
-RUN pip3 list
+RUN python3.8 -m pip install -r requirements.txt
+RUN python3.8 -m pip list
 
 COPY /src /app
 COPY .env /app
