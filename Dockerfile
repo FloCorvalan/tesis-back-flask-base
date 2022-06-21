@@ -9,7 +9,7 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 RUN pip3 list
-RUN TZ=Etc/UTC apt-get -y install tzdata
+RUN DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get -y install tzdata
 RUN apt-get install -y graphviz
 
 COPY /src /app
