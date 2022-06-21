@@ -9,6 +9,8 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 RUN pip3 list
+ENV TZ=Europe/Moscow
+RUN apt-get install -y tzdata
 RUN apt-get install -y graphviz
 
 COPY /src /app
