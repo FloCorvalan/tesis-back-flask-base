@@ -8,7 +8,6 @@ COPY ./requirements.txt /app/requirements.txt
 WORKDIR /app
 
 RUN pip3 install -r requirements.txt
-RUN pip3 list
 RUN DEBIAN_FRONTEND=noninteractive TZ=America/Santiago apt-get -y install tzdata
 RUN apt-get install -y graphviz
 
