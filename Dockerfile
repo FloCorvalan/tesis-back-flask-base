@@ -25,12 +25,16 @@ RUN cd Python-3.8.5 && \
 
 RUN python3.8 --version
 
+RUN apt-get update -y && \
+    apt-get install -y python3-pip
+
 # We copy just the requirements.txt first to leverage Docker cache
 COPY ./requirements.txt /app/requirements.txt
 
 WORKDIR /app
 
-RUN pip install -r requirements.txt
+RUN pip3 install -r requirements.txt
+RUN pip3 list
 
 COPY /src /app
 COPY .env /app
