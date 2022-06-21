@@ -8,6 +8,7 @@ from .db_methods import *
 from pm4py.algo.discovery.inductive import algorithm as inductive_miner
 from pm4py.visualization.bpmn import visualizer
 import os
+import shutil
 from pm4py.algo.conformance.alignments.petri_net import algorithm as alignments
 
 # Procesa los registros para generar un modelo de proceso
@@ -67,7 +68,10 @@ def get_fitness(team_project_id, leader_id):
         response['status'] = True
         # Se genera una red de petri a partir del archivo pnml con el modelo ideal
         print("AQUI")
-        net, initial_marking, final_marking = pm4py.read_pnml(file_path_petri)
+        pwd = os.getcwd()
+        dest_path = pwd + '/apps/pm/ideal.pnml'
+        shutil.copy2(file_path_petri, dest_path)
+        net, initial_marking, final_marking = pm4py.read_pnml(dest_path)
         # Se realiza la comparacion de los logs con la red de petri del modelo ideal
         # Se obtiene una lista de instancias del proceso cada una con su nivel de cumplimiento
         replayed_traces = alignments.apply(log, net, initial_marking, final_marking)
