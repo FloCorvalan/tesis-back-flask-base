@@ -11,6 +11,8 @@ RUN pip3 list
 COPY /src /app
 COPY .env /app
 
+RUN apt-get install graphviz
+
 ENTRYPOINT [ "python3.8" ]
 
 CMD [ "-u", "app.py" ]
