@@ -66,6 +66,7 @@ def get_fitness(team_project_id, leader_id):
     if file_path_petri != None:
         response['status'] = True
         # Se genera una red de petri a partir del archivo pnml con el modelo ideal
+        print("AQUI")
         net, initial_marking, final_marking = pm4py.read_pnml(file_path_petri)
         # Se realiza la comparacion de los logs con la red de petri del modelo ideal
         # Se obtiene una lista de instancias del proceso cada una con su nivel de cumplimiento
