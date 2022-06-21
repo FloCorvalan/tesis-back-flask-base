@@ -69,12 +69,8 @@ def get_registers():
         }
     )
 
-    print("VOY A ENTRAR A PROCESS DATA")
-
     # Para generar el modelo de proceso
     process_data(team_project_id)
-
-    print("SALI DE PROCESS DATA")
 
     # Para obtener el modelo de proceso
     bpmn_str = get_last_bpmn(team_project_id)

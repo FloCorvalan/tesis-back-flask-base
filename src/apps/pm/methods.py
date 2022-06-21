@@ -12,12 +12,9 @@ from pm4py.algo.conformance.alignments.petri_net import algorithm as alignments
 
 # Procesa los registros para generar un modelo de proceso
 def process_data(team_project_id):
-    print("ENTRE A PROCESS DATA")
     # Se obtienen los registros y se formatean para poder procesarlos con el algoritmo de pm4py
     registers = get_registers(team_project_id)
-    print(registers)
     log = DataFrame(list(registers))
-    print(log)
     log.rename(columns={'timestamp': 'time:timestamp', 
     'case_id': 'case:concept:name', 'activity': 'concept:name', 'resource': 'org:resource'}, inplace=True)
     
@@ -45,7 +42,6 @@ def process_data(team_project_id):
 
     # Se guarda el path del ultimo modelo generado
     update_last_model_path(team_project_id, file_path_svg)
-    print("VOY A SALIR DE PROCESS DATA")
     return file_path_svg
 
 
