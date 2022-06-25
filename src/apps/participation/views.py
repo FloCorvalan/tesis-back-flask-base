@@ -14,7 +14,7 @@ def get_team_projects_service():
     team_id = request.json['team_id']
     projects = get_team_projects(team_id)
     response = json_util.dumps(projects)
-    return Response(response, 'application/json')
+    return response
 
 
 # Para hacer el llamado al modulo de Jenkins para obtener la participacion en Jenkins
