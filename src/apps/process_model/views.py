@@ -13,7 +13,7 @@ process_model = Blueprint('process_model', __name__)
 def get_activities_cont_service():
     team_project_id = request.json['team_project_id']
     response = get_activities_cont(team_project_id)
-    return Response(response, 'application/json')
+    return response
 
 
 # Obtiene los registros para Process Mining de todas las herramientas
