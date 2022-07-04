@@ -3,7 +3,7 @@ from .methods import *
 import requests
 import os
 from ..token.token import token_required
-from json import loads
+from json import loads, dumps
 
 prod = Blueprint('prod', __name__)
 
@@ -86,7 +86,9 @@ def get_github_part_names():
 
     data_str = response.content.decode('utf8')
 
-    data = loads(data_str)
+    data = loads(dumps(loads(data_str),
+						indent=4,
+						separators=(",", ": ")))
 
     base_url_github = os.environ.get("BASE_URL_GITHUB")
 
@@ -97,8 +99,7 @@ def get_github_part_names():
         headers=headers,
         json={
             "team_id": team_id,
-            'start_timestamp': data['start_timestamp'],
-            'end_timestamp': data['end_timestamp']
+            'timestamps': data['timestamps']
         }
     )
 
