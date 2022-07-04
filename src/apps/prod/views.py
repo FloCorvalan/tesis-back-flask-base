@@ -1,9 +1,9 @@
-from flask import request, jsonify, Response, Blueprint
+from flask import request, Response, Blueprint
 from .methods import *
 import requests
 import os
 from ..token.token import token_required
-from json import loads, dumps
+from json import loads
 
 prod = Blueprint('prod', __name__)
 
@@ -86,9 +86,7 @@ def get_github_part_names():
 
     data_str = response.content.decode('utf8')
 
-    data = loads(dumps(loads(data_str),
-						indent=4,
-						separators=(",", ": ")))
+    data = loads(data_str)
 
     base_url_github = os.environ.get("BASE_URL_GITHUB")
 
@@ -99,7 +97,8 @@ def get_github_part_names():
         headers=headers,
         json={
             "team_id": team_id,
-            'timestamps': data['timestamps']
+            'start_timestamp': data['start_timestamp'],
+            'end_timestamp': data['end_timestamp']
         }
     )
 
